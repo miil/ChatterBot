@@ -2,7 +2,7 @@
 
 # ChatterBot
 [![Link to article eng](https://chatbotslife.com/how-to-create-an-intelligent-chatbot-in-python-c655eb39d6b1)](https://chatbotslife.com/how-to-create-an-intelligent-chatbot-in-python-c655eb39d6b1)
-[![Link to article eng]()](https://pythonist.ru/sozdanie-chat-bota-v-python/)
+[Link to article ru](https://pythonist.ru/sozdanie-chat-bota-v-python/)
 
 ChatterBot is a machine-learning based conversational dialog engine build in
 Python which makes it possible to generate responses based on collections of
