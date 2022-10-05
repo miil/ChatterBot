@@ -1,13 +1,13 @@
 ![ChatterBot: Machine learning in Python](https://i.imgur.com/b3SCmGT.png)
 
 # ChatterBot
+[![Link to demo](https://chatbotslife.com/how-to-create-an-intelligent-chatbot-in-python-c655eb39d6b1)](https://chatbotslife.com/how-to-create-an-intelligent-chatbot-in-python-c655eb39d6b1)
 
 ChatterBot is a machine-learning based conversational dialog engine build in
 Python which makes it possible to generate responses based on collections of
 known conversations. The language independent design of ChatterBot allows it
 to be trained to speak any language.
 
-[![Link to demo](https://img.shields.io/pypi/v/chatterbot.svg)](https://chatbotslife.com/how-to-create-an-intelligent-chatbot-in-python-c655eb39d6b1)
 [![Package Version](https://img.shields.io/pypi/v/chatterbot.svg)](https://pypi.python.org/pypi/chatterbot/)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Django 2.0](https://img.shields.io/badge/Django-2.0-blue.svg)](https://docs.djangoproject.com/en/2.1/releases/2.0/)
